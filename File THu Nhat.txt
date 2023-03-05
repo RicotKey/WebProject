@@ -5,5 +5,7 @@ Them noi dung cua May Tinh 1
 
 Noi dung may tinh 2
 
+Noi dung ngay hoc GIT GUI
+
 
 
