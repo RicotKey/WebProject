@@ -9,5 +9,7 @@ Noi dung ngay hoc GIT GUI
 
 Thuc hien 2 3 thao tac nay
 
+May tinh 3
+
 
 
