@@ -1,2 +1,4 @@
 -File thu 2 may tinh 3
 -File thu 2 tao xung dot
+
+-Tao xung dot 2
